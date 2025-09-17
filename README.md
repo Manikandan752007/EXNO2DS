@@ -138,5 +138,8 @@ pt=sns.boxplot(ax=ax1,x='Pclass',y='Age',hue='Sex',data=dt)
 
 # RESULT
        Thus Exploratory Data Analysis is performed on the given data set.
-# SUMMARY
-       The Exploratory Data Analysis (EDA) on the Titanic dataset was carried out to understand the data and find useful insights. First, the dataset was loaded, checked for missing values, and basic details like shape, unique values, and descriptive statistics were observed. Then, different visualization methods such as count plots, box plots, scatter plots, joint plots, and heatmaps were used to study the distribution, outliers, and relationships between variables. The survival rate was compared with factors like age, gender, class, and fare. From the analysis, it was found that survival chances were higher for females and passengers in higher classes. Overall, the EDA helped in understanding the dataset clearly and identifying important patterns.
+       
+# SUMMARY :
+The Exploratory Data Analysis (EDA) on the Titanic dataset was carried out to understand the data and find useful insights. First, the dataset was loaded, checked for missing values, and basic details like shape, unique values, and descriptive statistics were observed. Then, different visualization methods such as count plots, box plots, scatter plots, joint plots, and heatmaps were used to study the distribution, outliers, and relationships between variables. The survival rate was compared with factors like age, gender, class, and fare. From the analysis, it was found that survival chances were higher for females and passengers in higher classes. Overall, the EDA helped in understanding the dataset clearly and identifying important patterns.
+
+     
